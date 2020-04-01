@@ -11,3 +11,6 @@ some Hero icons are missing on EpicSevenDB
 
 Method 2:
 Require all the data during boot -> longer startup time
+
+
+# More testing needed
