@@ -20,3 +20,5 @@ Data must be encoded in Base64
 Better user experiance, no loading times
 
 # More testing needed
+
+Test: giovalin.github.io
