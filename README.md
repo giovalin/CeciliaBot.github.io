@@ -21,4 +21,4 @@ Better user experiance, no loading times
 
 # More testing needed
 
-Test: giovalin.github.io
+Test: https://giovalin.github.io/apidb
