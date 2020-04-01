@@ -12,5 +12,8 @@ some Hero icons are missing on EpicSevenDB
 Method 2:
 Require all the data during boot -> longer startup time
 
+Method 3:
+Use a bot to commit to master branch and update database everytime a change is to the API
+Better user experiance, no loading times
 
 # More testing needed
