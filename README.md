@@ -13,7 +13,8 @@ Method 2:
 Require all the data during boot -> longer startup time
 
 Method 3:
-Use a bot to commit to master branch and update database everytime a change is to the API
+1. Use a bot to commit to master branch and update database everytime a change is to the API
+2. Load the file at boot with $.getJSON("heroDatabase.json", function(json) {console.log(json);});
 Data must be encoded in Base64
 Better user experiance, no loading times
 
