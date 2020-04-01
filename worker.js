@@ -7,7 +7,8 @@ var AoEHeroes = ["Kawerik","Cerise","Specter Tenebria","Tempest Surin","Pavel","
 onmessage = function(e) {
          let isCartesian = false;
          var e = e.data;
-         var HeroDB = e.HeroDB;
+         //var HeroDB = e.HeroDB;
+         var HeroDB = e.myHeroesList;
          var campList = e.campList;
          if (e.cartesianLock.flat().length>0) isCartesian = true;
          console.log("Is cartesian product? " + isCartesian)
