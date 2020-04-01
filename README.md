@@ -14,6 +14,7 @@ Require all the data during boot -> longer startup time
 
 Method 3:
 Use a bot to commit to master branch and update database everytime a change is to the API
+Data must be encoded in Base64
 Better user experiance, no loading times
 
 # More testing needed
