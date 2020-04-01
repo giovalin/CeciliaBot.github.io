@@ -23,4 +23,4 @@ Better user experiance, no loading times
 
 Test: 
 1. Method 1: https://giovalin.github.io/apidb
-2. Method 2:
+2. Method 3: https://giovalin.github.io/apidb2/
